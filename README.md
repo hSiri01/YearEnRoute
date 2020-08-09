@@ -1,1 +1,1 @@
-# tamuhack2020
+# Hackathon 2020 | TAMUHACK2020
