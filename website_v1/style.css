@@ -1,9 +1,11 @@
 /* Place the navbar at the bottom of the page, and make it stick */
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
-body,html{
+
+body,html {
     height: 100%;
     margin: 0;
 }
+
 .navbar {
     background-color: rgb(31, 28, 28);
     overflow: auto;
@@ -13,8 +15,9 @@ body,html{
     color: white;
     opacity: 90%;
     height: 12%;
-  }
-/* Add a color to the active/current link */
+}
+
+/* add a color to the active/current link */
 .navbar a{
     color: white;
     padding: 1.2em 0em 0em 0em;
@@ -25,9 +28,7 @@ body,html{
     float: left;
     width: 25%; 
     text-align: center;
-    
 }
-
 
 .nav-icons {
     float: top;
@@ -59,76 +60,69 @@ body,html{
     right: 20%;
     background-color: rgb(31, 28, 28);
     color: azure;
-    font-family: 'Source Sans Pro', sans-serif;
-    
-    
-  }
-.rectangle h1{
+    font-family: 'Source Sans Pro', sans-serif;   
+}
+
+.rectangle h1 {
     font-size: 56px;
     align-content: center;
     text-align: center;
 }
 
 .rectangle p{
-    
     text-align: justify-all;
     font-size: 20px;
-    
 }
 
-
-
-
-
-
-/*for explore page*/
-.row{
+/* for explore page */
+.row {
     width: 90%;
 }
+
 .column {
     float: left;
     width: 30%; padding: 5px;
     background-color: #4d94ff;
     color: azure;
-
 }
+
 .column a{
     color:black;
     text-decoration: none;
 }
-.column:hover{
+
+.column:hover {
     padding: 10px;
     padding-top: 10px;
     background-color: white;
     color:#4d94ff;
 }
+
 .column:hover a{
     font-size: 35px;
 }
 
-
 @media screen and (max-width: 600px) {
-  .column {
+.column {
     width: 80%;
 }
     
 #upcomingflights{
     margin-top: 20px;
 }
-    
-.column img{
+   
+.column img {
     height: 20px;
-     width: 20px;
+    width: 20px;
 }
 
-#logo{
-     height: 20px;
-     width: 20px;
-     left: 10px;
+#logo {
+    height: 20px;
+    width: 20px;
+    left: 10px;
 }
 
-.flightinfo{
+.flightinfo {
     text-align: right;
     color: azure;   
 }
-    
