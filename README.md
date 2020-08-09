@@ -1,6 +1,6 @@
 # YearEnRoute Travel Recap | TAMUHACK2020
 
-A link to our devpost submission can be found here: https://devpost.com/software/american-airlines-yearenroute-travel-recap
+Our devpost submission can be found here: https://devpost.com/software/american-airlines-yearenroute-travel-recap
 
 ## Inspiration
 We were motivated by the need for wanting to be able to see past flights taken and be able to have easy access to their points earned, miles traveled and frequently visited places. Our primary inspiration was also trying to come up with a visual experience for users to relive their travels.
