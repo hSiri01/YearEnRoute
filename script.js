@@ -1,6 +1,6 @@
 console.log("Hello")
 jsContainer.innerHTML = '<div class="demo">Hello JS</div>'; ReactDOM.render(
-    /* TODO: React's  version of the html template */
+    /* TODO: React's  version of the HTML template */
     reactContainer
 )
 
