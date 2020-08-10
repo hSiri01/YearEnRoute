@@ -5,16 +5,16 @@ body,html {
     margin: 0;
 }
 
-/* place the navbar at the bottom of the page, and make it stick */
+/* navbar at the bottom of the page */
 .navbar {
-    background-color: rgb(31, 28, 28);
+    background-color: #ffffff00;
     overflow: auto;
     position: fixed;
     bottom: 0;
     width: 100%;
     color: white;
     opacity: 90%;
-    height: 12%;
+    height: 13%;
 }
 
 /* flight status, book flight, find trip, past flights */
@@ -44,7 +44,7 @@ body,html {
 
 /* background image */
 .bgimg {
-    background-image: url('img/bkg1.jpg');
+    background-image: url('img/bkg3.jpg');
     min-height: 100%;
     background-position: center;
     background-size: cover;
