@@ -1,4 +1,4 @@
-# YearEnRoute Travel Recap | TAMUHACK2020
+# YearEnRoute ~ A Travel Recap | TAMUHACK2020
 
 Our devpost submission can be found here: https://devpost.com/software/american-airlines-yearenroute-travel-recap
 
