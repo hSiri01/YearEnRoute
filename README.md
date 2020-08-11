@@ -2,8 +2,8 @@
 
 Our devpost submission can be found here: https://devpost.com/software/american-airlines-yearenroute-travel-recap
 
-## Inspiration
-We were inspired by yearly highlights and reels on various social media platforms so we created one for users to be able to see their past flights and relive their memories with American Airlines. We also included features for easy access to the number of points that user's have earned from the miles they've traveled. We primarily focused on the visual experience and yearly recap of places visited to reflect the user's travels.  
+## Our Inspiration
+We were inspired by yearly highlights and reels on various social media platforms so we created one for users to be able to see their past flights and relive their memories with American Airlines. We also included features for easy access to the number of points that users have earned from the miles they've traveled. We primarily focused on the visual experience and yearly recap of places visited to reflect the user's travels.  
 
 ## What it does
 Our web application is designed based on the current American Airlines mobile app with an extra feature of "Past Flights". This feature allows you to be able to see a year worth of flight history, miles, points earned and a video recap of places user's have journeyed to. The video recap starts off with a time-lapse showcasing all the different places and cultures around the world followed by symbolic pictures of the user's traveled to places.
