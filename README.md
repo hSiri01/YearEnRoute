@@ -12,7 +12,7 @@ Our web application expands on the current American Airlines mobile app design b
 We encountered a few technical challenges during development, including difficulties with React.js integration and connecting it to our desired outcome. The API we were provided by American Airlines lacked all the necessary user flight history data, so we shifted to a more UI-focused approach to mock our design and plan. We also faced issues with scaling the website across different screen sizes, as well as broader challenges such as ensuring data privacy and security, integrating and synchronizing data from multiple sources, and maintaining scalability to handle a large number of users without compromising performance.
 
 ## What's next for YearEnRoute
-We aim to use real user data to provide a wholesome experience that can be seamlessly shared across various social media platforms. Our goals are to enhance user engagement, promote brand loyalty, increase social sharing, foster community connection, offer personalized recommendations, drive bookings, and incorporate gamification to make the travel journey with American Airlines more memorable and rewarding.
+We aim to use real user data to provide a wholesome experience that can be seamlessly shared across various social media platforms. Our goals are to enhance user engagement, promote brand loyalty, increase social sharing, foster community connection, offer future travel recommendations, drive bookings, and incorporate gamification to make the travel journey with American Airlines more memorable and rewarding.
 
 ## Our Website: Home Page
 ![](YearEnRoute_mvp/aa-home.png)
